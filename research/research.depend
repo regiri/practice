@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653430687 source:c:\users\gopa2\cpp_progs\pp\research\main.cpp
+	"plant.h"
+	"practice.h"
+	<discpp.h>
+	<cmath>
+	<vector>
+
+1487012148 source:c:\users\gopa2\cpp_progs\pp\research\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1487011920 c:\users\gopa2\cpp_progs\pp\research\plant.h
+
+1653426894 source:c:\users\gopa2\cpp_progs\pp\research\practice.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<fstream>
+	<unistd.h>
+	"practice.h"
+
+1641754018 c:\users\gopa2\cpp_progs\pp\research\dislin\discpp.h
+
+1653426670 c:\users\gopa2\cpp_progs\pp\research\practice.h
+	<vector>
+	<string>
+	"plant.h"
+
